@@ -1,6 +1,11 @@
 # Example for Conflicts
 
 
+
+Name: Celine Mang
+Favorite Ice Cream: Cookie and Cream
+Favorite Candy: Haribo
+
 Name: Bobby  
 Favorite Ice Cream: Rum Raisin  
 Favorite Candy: Candy Corn 
@@ -22,6 +27,7 @@ Favorite Candy: Sour Patch Kids
 Name: Dana  
 Favorite Ice Cream: Chocolate Chip Cookie Dough  
 Favorite Candy: Sour Gummy Worms
+
 
 
 
