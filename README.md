@@ -28,6 +28,10 @@ Name: Dana
 Favorite Ice Cream: Chocolate Chip Cookie Dough  
 Favorite Candy: Sour Gummy Worms
 
+Name: Max V
+Favorite Ice Cream: Ben and Jerry's Half Baked
+Favorite Candy: Reeses Peanut Butter Cups
+
 
 
 
